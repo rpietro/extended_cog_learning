@@ -152,3 +152,6 @@ take all lectures from a given week, then randomly pick one and prepare using si
 
 ## References
 
+Freeman S, Eddy SL, McDonough M, Smith MK, Okoroafor N, Jordt H, Wenderoth MP. Active learning increases student performance in science, engineering, and mathematics. 2014 10:111(23):8410-5
+
+http://news.sciencemag.org/education/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds
